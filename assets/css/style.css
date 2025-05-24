@@ -1,0 +1,132 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* variabel */
+:root {
+    --primary-color: #76C1C6;
+    --dark-color: #0F0F0F;
+    --gray-color: gray; 
+    --h1-font-size: 40px;
+    --h2-font-size: 32px;
+    --small-font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.text-toska {
+    color: var(--primary-color);
+}
+
+/* header */
+.header-tittle {
+    font-size: var(--h1-font-size);
+}
+
+.header-skill {
+    color: var(--dark-color);
+}
+
+.header-skill:hover{
+    color: var(--primary-color);
+}
+
+.header-skill i{
+    transition: .3s;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+}
+
+.text-dark {
+    color: var(--dark-color);
+}
+
+.fs-7 {
+    font-size: var(--small-font-size);
+}
+
+.fs-5 {
+    font-size: 25px;
+}
+
+.fs-3{
+    font-size: 35px;
+}
+
+.fs-1{
+    font-size: 50px;
+}
+.navbar-nav a:hover{
+    color: var(--primary-color);
+}
+
+.jumbotron-home{
+background-image: url('../img/main-banner.png');
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+color: black; 
+height: 95vh; 
+margin-bottom: 30px; 
+display: flex; 
+align-items: center; 
+justify-content: center;
+text-align: left;
+padding-top: 100px;
+}
+
+.jumbotron-op{
+margin-top: 30px;
+text-align: center;
+}
+
+.content{
+border: 1px solid rgba(0,0,0,.125);
+border-radius: .25rem;
+min-height: 500px;
+padding: 15px;
+}
+
+
+.footer{
+    width: 100%;
+    background-color: #555 ;
+    height: 100px;
+    font-size: 9pt;
+    font-weight: 100;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+    margin-top:30px;
+}
+
+.footer i {
+font-style: normal;
+}
+
+@media (max-width: 575.98px) {
+.display-4 {
+font-size: 2.5rem;
+}
+}
+
+@media (max-width: 700px){
+    .jumbotron-home{
+        background-image: url('../img/main-banner2.png');
+        background-repeat: no-repeat;
+        color: black; 
+        height: 95vh; 
+        margin-top: 270px;
+        margin-bottom: 30px; 
+        display: flex; 
+        align-items: left; 
+        text-align: left;
+        }
+        .bio {
+            margin-top: -990px !important;
+        }
+        
+}

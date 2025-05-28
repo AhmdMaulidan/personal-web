@@ -35,5 +35,7 @@ Ini adalah **Personal Website** sederhana yang dibangun menggunakan:
 ![imaghe alt](https://github.com/AhmdMaulidan/personal-web/blob/35abb829e2d009dd0511c0dc58f359d90371e528/Tampilan.png)
 
 
+> Created with ❤️
+
 
 

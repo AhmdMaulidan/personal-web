@@ -1,6 +1,6 @@
 # 🌐 Personal Website
 
-Ini adalah **Personal Website** sederhana yang dibangun menggunakan:
+### Ini adalah **Personal Website** sederhana yang dibangun menggunakan:
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>

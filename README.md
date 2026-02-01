@@ -33,7 +33,6 @@
 ###
 
 ![imaghe alt](https://github.com/AhmdMaulidan/personal-web/blob/35abb829e2d009dd0511c0dc58f359d90371e528/Tampilan.png)
-![imaghe alt]([https://github.com/AhmdMaulidan/personal-web/blob/35abb829e2d009dd0511c0dc58f359d90371e528/Tampilan.png](https://github.com/AhmdMaulidan/personal-web/blob/1cc9375cc39235982b3d0aada9d3911823b0313a/1.png))
 
 -----
 
